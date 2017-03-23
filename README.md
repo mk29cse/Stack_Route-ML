@@ -6,8 +6,8 @@ The problem statement is attached along with the repo - "Problem_Statement.pdf"
 The repo consists of 2 files namely Assign1_1-final.ipynb and IPl_Story-final.ipynb
 
 
-Assign1_1-final.ipynb 
---------------------------
+## Assign1_1-final.ipynb 
+
 
 The file contains the solution to the problem specified in the problem statement. A brief description of the problem solved is discussed below.
 	-> Plot a histogram for "venue" TODO: Group by Seasons
@@ -27,8 +27,8 @@ The file contains the solution to the problem specified in the problem statement
 
 
 
-IPl_Story-final.ipynb
---------------------------
+## IPl_Story-final.ipynb
+
 
 This file tries to extract meaningful information from the data provided. This is done in order to tell a story via graphs, regarding the data available.
 The code included in the contains 2 major functions whose sole job is to do the following:
