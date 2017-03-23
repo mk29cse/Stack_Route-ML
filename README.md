@@ -13,8 +13,7 @@ The file contains the solution to the problem specified in the problem statement
 	-> Plot a histogram for "venue" TODO: Group by Seasons
 	   
 	   Data from file matches.csv and deliveries.csv are loaded. Then a crosstab between season and venue is created.
-	   The crosstab contains data groupby season and contains count of number of matches played at each stadium in 
-           that season
+	   The crosstab contains data groupby season and contains count of number of matches played at each stadium in that season
 
 	-> Filter the Matches by id for the period match id number 500 - 550, and plot for "venue"
 	   
@@ -35,15 +34,15 @@ The code included in the contains 2 major functions whose sole job is to do the 
 	->batsman overview
 	  This contains 4 functions. These are used to generate graph for top score scored by batsman under different conditions.
 	  It generates graph for 
-		-> top score by batsman for a specific team in a specific season,
-                -> top score by batsman for a specific team across all season
-		-> top score by batsman across all team in a specific season,
-                -> top score by batsman across all team across all season
+	      > top score by batsman for a specific team in a specific season,
+      	      > top score by batsman for a specific team across all season
+	      > top score by batsman across all team in a specific season,
+     	      > top score by batsman across all team across all season
 	->bowler overview
 	  This contains 4 functions. These are used to generate graph for top wicket taking bowler under different conditions.
 	  It generates graph for 
-		-> top wicket taking bowler for a specific team in a specific season,
-                -> top wicket taking bowler for a specific team across all season
-		-> top wicket taking bowler across all team in a specific season,
-                -> top wicket taking bowler across all team across all season
+	      > top wicket taking bowler for a specific team in a specific season,
+      	      > top wicket taking bowler for a specific team across all season
+	      > top wicket taking bowler across all team in a specific season,
+       	      > top wicket taking bowler across all team across all season
 
